@@ -460,11 +460,11 @@ function main() {
     { kind: 'chart', label: 'MARKETS', headline: "ANTHROPIC'S $81.3BN IPO",
       body: "Claude's maker prices at $83 a share — the biggest IPO ever. Trading starts today as ANT." },
     { kind: 'court', label: 'LAW — THE HAGUE', headline: 'WORLD COURT DECIDES TODAY',
-      body: 'The ICJ rules today on Myanmar and the Rohingya — a genocide verdict, a first for any state.' },
+      body: 'ICJ genocide verdict on Myanmar and the Rohingya — a first for any state.' },
     { kind: 'burst', label: 'CONFLICT', headline: 'GAZA AND CRIMEA UNDER FIRE',
       body: 'Israeli troops launch a rare ground operation in central Gaza. The Crimean Bridge is hit again.' },
     { kind: 'planet', label: 'SPACE', headline: 'VOYAGER 1, ONE LIGHT-DAY AWAY',
-      body: "NASA's 1977 probe is the first human-made object a light-day from Earth — its signals take a day." },
+      body: "First human-made object a light-day from Earth — NASA's signals take a day." },
     { kind: 'eustars', label: 'EUROPE', headline: "EU'S €45BN UKRAINE LOAN",
       body: 'Brussels proposes a €45BN loan for Kyiv, to be repaid from Russian reparations.' },
   ];
