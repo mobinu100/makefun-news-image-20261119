@@ -456,7 +456,7 @@ function main() {
   vline(678, 558, 330, INK, 1);
   const stories = [
     { kind: 'flags', label: 'DIPLOMACY — SHENZHEN', headline: 'TRUMP, XI AND PUTIN MEET',
-      body: 'The three leaders meet in Shenzhen at the APEC summit — an unprecedented trilateral.' },
+      body: 'The three leaders meet in Shenzhen at APEC summit — unprecedented trilateral.' },
     { kind: 'chart', label: 'MARKETS', headline: "ANTHROPIC'S $81.3BN IPO",
       body: "Claude's maker prices at $83 a share — the biggest IPO ever. Trading starts today as ANT." },
     { kind: 'court', label: 'LAW — THE HAGUE', headline: 'WORLD COURT DECIDES TODAY',
